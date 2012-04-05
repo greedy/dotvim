@@ -1,4 +1,4 @@
-let g:auto_addons = ['The_NERD_tree', 'Solarized','neocomplcache','vim-addon-goto-thing-at-cursor', 'fugitive']
+let g:auto_addons = ['The_NERD_tree', 'Solarized','neocomplcache','vim-addon-goto-thing-at-cursor', 'fugitive', 'vim-addon-scala']
 runtime initialize_vam.vim
 
 fun VAMPostInit()
