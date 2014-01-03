@@ -1,0 +1,24 @@
+[submodule "bundle/tpope-vim-pathogen"]
+	path = bundle/tpope-vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "bundle/tpope-vim-scriptease"]
+	path = bundle/tpope-vim-scriptease
+	url = https://github.com/tpope/vim-scriptease.git
+[submodule "bundle/tpope-vim-fugitive"]
+	path = bundle/tpope-vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/scrooloose-nerdtree"]
+	path = bundle/scrooloose-nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/sjl-gundo"]
+	path = bundle/sjl-gundo
+	url = http://github.com/sjl/gundo.vim.git
+[submodule "bundle/nanotech-jellybeans"]
+	path = bundle/nanotech-jellybeans
+	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "bundle/majutsushi-tagbar"]
+	path = bundle/majutsushi-tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/scrooloose-syntastic"]
+	path = bundle/scrooloose-syntastic
+	url = https://github.com/scrooloose/syntastic.git

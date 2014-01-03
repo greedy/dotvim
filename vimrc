@@ -1,12 +1,8 @@
-let g:auto_addons = ['The_NERD_tree', 'Solarized','neocomplcache','vim-addon-goto-thing-at-cursor', 'fugitive']
-runtime initialize_vam.vim
-
-fun VAMPostInit()
-  colors solarized
-endfun
-
+let g:pathogen_disabled = []
+runtime bundle/tpope-vim-pathogen/autoload/pathogen.vim
+exec pathogen#infect()
 syntax on
-
 filetype plugin indent on
 
+set ruler
 set et sts=2 sw=2
