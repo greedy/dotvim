@@ -28,3 +28,9 @@
 [submodule "bundle/Shougo-unite"]
 	path = bundle/Shougo-unite
 	url = https://github.com/Shougo/unite.vim.git
+[submodule "bundle/tpope-vim-vinegar"]
+	path = bundle/tpope-vim-vinegar
+	url = https://github.com/tpope/vim-vinegar.git
+[submodule "bundle/bling-vim-airline"]
+	path = bundle/bling-vim-airline
+	url = https://github.com/bling/vim-airline
