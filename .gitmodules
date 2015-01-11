@@ -34,3 +34,24 @@
 [submodule "bundle/bling-vim-airline"]
 	path = bundle/bling-vim-airline
 	url = https://github.com/bling/vim-airline
+[submodule "bundle/MarcWeber-vim-addon-nix"]
+	path = bundle/MarcWeber-vim-addon-nix
+	url = https://github.com/MarcWeber/vim-addon-nix.git
+[submodule "bundle/MarcWeber-vim-addon-mw-utils"]
+	path = bundle/MarcWeber-vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/MarcWeber-vim-addon-actions"]
+	path = bundle/MarcWeber-vim-addon-actions
+	url = https://github.com/MarcWeber/vim-addon-actions.git
+[submodule "bundle/MarcWeber-vim-addon-completion"]
+	path = bundle/MarcWeber-vim-addon-completion
+	url = https://github.com/MarcWeber/vim-addon-completion.git
+[submodule "bundle/MarcWeber-vim-addon-goto-thing-at-cursor"]
+	path = bundle/MarcWeber-vim-addon-goto-thing-at-cursor
+	url = https://github.com/MarcWeber/vim-addon-goto-thing-at-cursor.git
+[submodule "bundle/MarcWeber-vim-addon-errorformats"]
+	path = bundle/MarcWeber-vim-addon-errorformats
+	url = https://github.com/MarcWeber/vim-addon-errorformats.git
+[submodule "bundle/tomtom-tlib_vim"]
+	path = bundle/tomtom-tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
