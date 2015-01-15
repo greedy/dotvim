@@ -55,3 +55,6 @@
 [submodule "bundle/tomtom-tlib_vim"]
 	path = bundle/tomtom-tlib_vim
 	url = https://github.com/tomtom/tlib_vim.git
+[submodule "bundle/ajh17-Spacegray.vim"]
+	path = bundle/ajh17-Spacegray.vim
+	url = https://github.com/ajh17/Spacegray.vim.git
