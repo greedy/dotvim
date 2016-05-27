@@ -31,9 +31,6 @@
 [submodule "bundle/tpope-vim-vinegar"]
 	path = bundle/tpope-vim-vinegar
 	url = https://github.com/tpope/vim-vinegar.git
-[submodule "bundle/bling-vim-airline"]
-	path = bundle/bling-vim-airline
-	url = https://github.com/bling/vim-airline
 [submodule "bundle/MarcWeber-vim-addon-nix"]
 	path = bundle/MarcWeber-vim-addon-nix
 	url = https://github.com/MarcWeber/vim-addon-nix.git
@@ -73,3 +70,9 @@
 [submodule "bundle/derekwyatt-vim-scala"]
 	path = bundle/derekwyatt-vim-scala
 	url = https://github.com/derekwyatt/vim-scala.git
+[submodule "bundle/vim-airline-vim-airline"]
+	path = bundle/vim-airline-vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "bundle/vim-airline-vim-airline-themes"]
+	path = bundle/vim-airline-vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
